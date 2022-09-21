@@ -68,3 +68,5 @@ class Student:
 
     student = Student("윤인성", 3)
     student.출력()
+
+print('win')
